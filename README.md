@@ -1,7 +1,9 @@
-"# Tunein.com-GiftCard-Generator" 
+# Tunein.com-GiftCard-Generator
 
-To redeem the coupon generated, go to https://tunein.com/coupon 
+![Tune-In Logo](https://upload.wikimedia.org/wikipedia/commons/1/10/TuneIn_Logo_2018.svg)
 
-Drop a ❤️ in my DM (t.me/FullNoob_xD) of fork this repo if you loved it! '-'
+> To redeem the coupon generated, go to https://tunein.com/coupon 
 
-**Note: Code only for educational purposes!
+## Drop a ❤️ at (https://t.me/FullNoob_xD) or fork this repo if you loved it! '-'
+
+### *Note: Code only for educational purposes!
